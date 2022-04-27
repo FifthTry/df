@@ -1,0 +1,27 @@
+-- ft.page-with-toc: Database Name
+sub-sections: $config.web-product-header
+toc: $config.developer-manual-toc
+
+For every “logical” database there would be a document, “e.g.
+Django db” or “analytics db”, “worker db” etc.
+
+-- ft.h1: Name
+
+The name we are going to use to refer to this database.
+
+-- ft.h1: Instances
+
+If some database has multiple instances, fall over instance for example,
+it should be documented here.
+
+
+-- ft.h1: Backup
+
+How to perform backup, how to restore from backup should be included
+along with each instance.
+
+
+-- ft.h1: Access Control
+
+Who in the team has what access to the database should be mentioned here.
+

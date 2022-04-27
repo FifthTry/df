@@ -1,0 +1,5 @@
+-- ft.page-with-toc: Role 2
+sub-sections: $config.web-product-header
+toc: $config.developer-manual-toc
+
+Similar to [Role 1](web-product/developer-manual/role-1/)

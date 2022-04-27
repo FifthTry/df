@@ -1,0 +1,8 @@
+-- ft.page-with-toc: Databases
+sub-sections: $config.web-product-header
+toc: $config.developer-manual-toc
+
+- [Overview](web-product/developer-manual/databases/overview/)
+- [Database Name](web-product/developer-manual/databases/database-name/)
+- [“Table” Name](web-product/developer-manual/databases/table-name/)
+- [Database Functions](web-product/developer-manual/databases/database-functions/)

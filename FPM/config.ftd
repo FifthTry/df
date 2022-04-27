@@ -50,17 +50,16 @@ $processor$: toc
 -- fpm.toc-item list developer-manual-toc:
 $processor$: toc
 
-- Subsection: Overview
-  url: Subsection-Overview
-  - Document: Overview
-    url: Subsection-Overview
-- Subsection: Databases
-  - Overview
-  - Document: Database Name
-  - Document: “Table” Name
-  - Document: Database Functions
-- Subsection: Service 1
-- Subsection: Service 2
-- Role Subsection: Front End
-- Subsection: Role 2
-- Subsection: Role 3
+- Overview: web-product/developer-manual/overview/
+  - Overview: web-product/developer-manual/overview/overview/
+- Databases: web-product/developer-manual/databases/
+  - Overview: web-product/developer-manual/databases/overview/
+  - Database Name: web-product/developer-manual/databases/database-name/
+  - “Table” Name: web-product/developer-manual/databases/table-name/
+  - Database Functions: web-product/developer-manual/databases/database-functions/
+- Service 1: web-product/developer-manual/service-1/
+- Service 2: web-product/developer-manual/service-2/
+- Role 1: Front End
+  url: web-product/developer-manual/role-1/
+- Role 2: web-product/developer-manual/role-2/
+- Role 3: web-product/developer-manual/role-3/

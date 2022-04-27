@@ -1,0 +1,62 @@
+-- ft.page-with-toc: “Table” Name
+sub-sections: $config.web-product-header
+toc: $config.developer-manual-toc
+
+There should be a document for every table in the database. These documents
+should be organised as sub pages of a corresponding database document.
+
+In no SQL databases, we will have some “logical” tables, key patterns that
+contain similar data. They should have their own page as well.
+
+
+-- ft.h1: Name
+
+The name of the table.
+
+
+-- ft.h1: Schema
+
+Schema of the table can be represented in either SQL form, if the table
+is created using authored SQL, or it can contain the ORM model definition
+if the table is created/managed by an ORM.
+
+
+-- ft.h1: Field
+
+For every field of the table there should be a subheading. In this
+subheading discuss the type of the column, indexes and constraints on this
+column.
+
+
+-- ft.h1: Enum Fields
+
+Some fields or columns are going to be enum like, with only few values allowed.
+For example, a common enum-like field is the “status” column in many tables.
+The status field represents a state machine. In such fields values should be
+documented.
+
+
+-- ft.h1: Compound Indexes
+
+Some indexes are going to span multiple fields, such indexes can be listed by name
+separately after documenting all fields.
+
+
+-- ft.h1: ORM Details
+
+If the table is managed by an ORM, then ORM specific details can be listed here.
+In Django applications you may want to list if the admin application is configured
+for this table. If you have a custom model manager for this table that should be
+listed here. If the ORM class mapping for this table has interesting helper functions,
+they can be listed here.
+
+Depending on the complexity of the ORM, a dedicated Document ORM can also be created.
+
+
+-- ft.h1: Common Queries
+
+If there are some common queries, like for a user table, often it’s interesting to keep
+a group by query for user joining this month handy for early startups. Often you would
+not put the common queried in the document itself, but will have some data exploration
+tool installed and queries configured there, this section can then contain instructions on
+how to reach the exploration tool.

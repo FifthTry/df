@@ -1,0 +1,13 @@
+-- ft.page-with-toc: Service 1
+sub-sections: $config.web-product-header
+toc: $config.developer-manual-toc
+
+- Overview
+  - Code
+  - Technology
+- Architecture
+- Day To Day
+  - Setup code from scratch
+  - Deploy the service
+  - Check logs
+  - Other common operations for the service

@@ -1,0 +1,8 @@
+-- ft.page-with-toc: Role 1: Front End
+sub-sections: $config.web-product-header
+toc: $config.developer-manual-toc
+
+Technologies, patterns and so on.
+
+For frontend applications, a style guide is helpful. In some cases the
+style guide would be documented as part of storybook applications.

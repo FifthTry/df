@@ -1,0 +1,16 @@
+-- ft.page-with-toc: Developer Manual
+sub-sections: $config.web-product-header
+toc: $config.developer-manual-toc
+
+Developers, both frontend and backend, QA team, devops etc are all targets
+of your developer manual. A complete developer manual will allow a competent
+team to fully take over the ownership of the current technology and keep on
+producing features at almost the same pace as the original team, without talking
+to anyone in the original tech team.
+
+Similarly a new person should be able to join an existing team, set up their machines
+for development, understand how services are to be run, how to update databases, how to
+add various features, without much hand holding.
+
+Code is the best documentation, so the developer manual will point to code in
+different places.

@@ -1,0 +1,34 @@
+-- ft.page-with-toc: Documentation Of An Outgoing Communication
+sub-sections: $config.web-product-header
+toc: $config.product-manual-toc
+
+Some actions can trigger an email. Or an SMS, or a slack alert etc. All such
+outgoing communications should be documented on a dedicated document for that
+specific communication. Eg Email Confirmation Mail. If you send multiple
+communications for the same action, e.g. “Account Suspension Email” and
+“Account Suspension SMS”, these two should be documented as separate documents.
+
+
+-- ft.h1: Name Of Communication
+
+The name by which we will be calling the communication everywhere should be
+standardised here.
+
+
+-- ft.h1: Overview
+
+The action or logic that triggered the notification, along with who is the primary
+receiver of the notification should be mentioned here. If the communication is prompting
+the user to perform an action, that should also be listed in the overview.
+
+
+-- ft.h1: Design / Template
+
+The template of the mail/SMS/etc, with a sample screenshot on how the mail/SMS/etc appears
+should be included in the design section. If the communication is personalised based on
+some logic, the various states of the communication should be documented as subheadings.
+
+
+-- ft.h1: Data
+
+The data that is available to the template should be documented here.

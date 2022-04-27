@@ -1,0 +1,37 @@
+-- ft.page-with-toc: Documentation Of An Action
+sub-sections: $config.web-product-header
+toc: $config.product-manual-toc
+
+An action is a web request that is performed by a user activity in the browser,
+say they click on a button, or submit a form, and the web request returns a page.
+The returned page from the user's perspective could be the same page or a different
+page. Login is an action, takes you from login page to home page. Create a tweet,
+which takes you from the current timeline page to the next timeline page (with the
+new tweet on top).
+
+Actions can lead to errors as well. In case of an error user does not switch page,
+the user is shown the error message.
+
+
+-- ft.h1: Action Name
+
+Documentation of action established the official name of the action which is used
+everywhere.
+
+
+-- ft.h1: Overview
+
+In overview we mention what user is taking the action, and what is the primary
+result of the action, if things go well.
+
+The success destination page for the action should be mentioned in the overview.
+
+
+-- ft.h1: URL And Parameters
+
+The URL of the action should be documented.
+
+For every parameter that the action expects, the name and type of the parameter should
+be mentioned. If validations are performed on the parameter, they should be mentioned.
+What possible error messages can be shown to the end user because of parameter validation
+issues should be documented here.

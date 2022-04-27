@@ -38,13 +38,13 @@ $processor$: toc
   - Overview: web-product/product-manual/features-&-journeys/overview/
   - Glossary: web-product/product-manual/features-&-journeys/glossary/
   - Personas: web-product/product-manual/features-&-journeys/personas/
-- Pages, Actions, APIs, Communications: Pages, Actions, APIs, Communications
-  - How To Organise TOC of this Subsection
-  - Documentation Of A Page
-  - Documentation of a Widget
-  - Documentation Of A Action
-  - Documentation Of An Api
-  - Documentation Of An Outgoing Communication
+- Pages, Actions, APIs, Communications: web-product/product-manual/pages-actions-apis-communications/
+  - How To Organise TOC of this Subsection: web-product/product-manual/pages-actions-apis-communications/how-to-organise-toc-of-this-subsection/
+  - Documentation Of A Page: web-product/product-manual/pages-actions-apis-communications/documentation-of-a-page/
+  - Documentation of a Widget: web-product/product-manual/pages-actions-apis-communications/documentation-of-a-widget/
+  - Documentation Of An Action: web-product/product-manual/pages-actions-apis-communications/documentation-of-an-action/
+  - Documentation Of An Api: web-product/product-manual/pages-actions-apis-communications/documentation-of-an-api/
+  - Documentation Of An Outgoing Communication: web-product/product-manual/pages-actions-apis-communications/documentation-of-an-outgoing-communication/
 
 
 -- fpm.toc-item list developer-manual-toc:

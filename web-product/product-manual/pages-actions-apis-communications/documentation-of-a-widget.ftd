@@ -1,0 +1,35 @@
+-- ft.page-with-toc: Documentation Of A Widget
+sub-sections: $config.web-product-header
+toc: $config.product-manual-toc
+
+Widget, is a reusable component of UI that is present on multiple pages.
+Since the widget is present on multiple pages, it should not be documented
+in the documentation of any one of those pages, but instead there should be
+a dedicated document for documenting the widget.
+
+Note that this is not the laundry list of all atom level UI components.
+The kitchen sink UI components, style guide etc are documented as part of
+“Development Manual” and not “Product Manual”. A widget is a widget only if end
+users are actively aware of it, like the Mail Compose widget of Gmail, or popup
+search or login dialog of some sites, users are aware they are intersecting with
+“Search dialog” and not the “Blog Index Page” for example, as search dialog is
+present on many pages, not just blog index page. Similarly if the search dialog is
+made up of “Primary Button” or whatever, the user is not really thinking that yes
+this type of UI element is present on many pages. Primary button and all its states
+etc goes in the developer manual.
+
+The documentation of a Widget mirrors the documentation of a page, just that widget
+does not have a URL. Widget may have parameters, so the Parameters heading can be
+still included.
+
+
+-- ft.h1: Widget Name
+
+Document for the widget should tell everyone what is the official name of the widget.
+
+
+-- ft.h1: Overview
+
+Overview tells you who are the primary users of the widget, what are they trying
+to accomplish using the widget, and what are the prominent places the widget is found,
+or how is the widget “invoked”, e.g. by clicking the “Login” button etc.

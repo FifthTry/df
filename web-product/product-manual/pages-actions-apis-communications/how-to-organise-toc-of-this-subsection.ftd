@@ -1,0 +1,27 @@
+-- ft.page-with-toc: How To Organise TOC of this Subsection
+sub-sections: $config.web-product-header
+toc: $config.product-manual-toc
+
+We do not want the reader to jump too much, so we want things that are contextually
+related to show up spatially close to each other if at all possible. One way to
+achieve this is by following this recommendation. There are other ways possible,
+try to optimise for readers and use your judgement.
+
+The top level entries of this TOC should be main categories for your site, eg
+“Authentication”, “Main Pages” or “Admin” etc.
+
+If an action/API is used on only one page, or if there is one obvious main page for
+the action/api, it should be listed as a child of the page. Similarly if a communication
+is only triggered by an Action or API, it should be listed as a child of the action
+or the API.
+
+Widgets are by definition reusable, so there should be a “Widgets” entry in TOC, under
+which all widgets should be mentioned.
+
+Similarly there should be “Actions”, “APIs” and “Communications” entries for items
+that are truly reusable.
+
+
+-- ft.image:
+src: $assets.files.images.how-to-organise-toc-of-this-subsection.image1.png
+width: fill

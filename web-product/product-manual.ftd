@@ -1,0 +1,3 @@
+-- ft.page-with-toc: Web Product
+sub-sections: $config.web-product-header
+toc: $config.product-manual-toc

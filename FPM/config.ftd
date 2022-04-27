@@ -1,0 +1,58 @@
+-- import: ft
+
+-- ft.github: https://github.com/fifthtry/cdoc/
+
+-- ft.sections:
+$processor$: toc
+
+- Web Product: web-product/
+
+
+-- ft.toc:
+$processor$: toc
+
+- Documentation Framework
+- Showcase
+- FifthTry Document Organisation Hierarchy
+- Is the entire documentation public?
+- What If You Have More Than One Product?
+
+
+-- fpm.toc-item list web-product-header:
+$processor$: toc
+
+- Product Manual: web-product/product-manual/
+- Developer Manual: web-product/developer-manual/
+
+
+-- fpm.toc-item list product-manual-toc:
+$processor$: toc
+
+- Overview & Why
+- Features & Journeys
+- Pages, Actions, APIs, Communications
+  - How To Organise TOC of this Subsection
+  - Documentation Of A Page
+  - Documentation of a Widget
+  - Documentation Of A Action
+  - Documentation Of An Api
+  - Documentation Of An Outgoing Communication
+
+
+-- fpm.toc-item list developer-manual-toc:
+$processor$: toc
+
+- Subsection: Overview
+  url: Subsection-Overview
+  - Document: Overview
+    url: Subsection-Overview
+- Subsection: Databases
+  - Overview
+  - Document: Database Name
+  - Document: “Table” Name
+  - Document: Database Functions
+- Subsection: Service 1
+- Subsection: Service 2
+- Role Subsection: Front End
+- Subsection: Role 2
+- Subsection: Role 3

@@ -11,11 +11,11 @@ $processor$: toc
 -- ft.toc:
 $processor$: toc
 
-- Documentation Framework
-- Showcase
-- FifthTry Document Organisation Hierarchy
-- Is the entire documentation public?
-- What If You Have More Than One Product?
+- Documentation Framework: documentation-framework/
+- Showcase: showcase/
+- FifthTry Document Organisation Hierarchy: document-organisation-hierarchy/
+- Is the entire documentation public?: is-the-entire-documentation-public/
+- What If You Have More Than One Product?: what-if-you-have-more-than-one-product/
 
 
 -- fpm.toc-item list web-product-header:

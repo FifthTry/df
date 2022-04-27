@@ -1,0 +1,119 @@
+-- ft.page-with-toc: FifthTry Document Organisation Hierarchy
+
+FifthTry recommends a three level hierarchy for organising documentation
+for maximum readability. In order to understand it, lets first look at the
+documentation organisation by Confluence or Notion:
+
+
+-- ft.image:
+src: $assets.files.images.document-organisation-hierarchy.image1.png
+width: fill
+
+-- ft.image:
+src: $assets.files.images.document-organisation-hierarchy.image2.png
+width: fill
+
+-- ft.markdown:
+
+In both Notion and Confluence we have a concept of a “Workspace” or “Space”.
+You can see the name of the current space, and in the current space,
+documents are organised in a table of content form on the left hand side.
+
+The space creates a space for your team, and each team usually has their own space.
+
+-- ft.image:
+src: $assets.files.images.document-organisation-hierarchy.image3.png
+width: fill
+
+-- ft.image:
+src: $assets.files.images.document-organisation-hierarchy.image4.png
+width: fill
+
+
+-- ft.markdown:
+
+Once you have entered the space, you tend to navigate primarily through the table
+of contents on the left as shown earlier.
+
+FifthTry on the other hand organised a documentation into three level hierarchy: at
+the top level we have “sections”, each section can have one or more “subsection”,
+and each subsection has a table of content.
+
+
+-- ft.image:
+src: $assets.files.images.document-organisation-hierarchy.image5.png
+width: fill
+
+-- ft.markdown:
+
+An example of document hierarchy:
+
+-- ft.image:
+src: $assets.files.images.document-organisation-hierarchy.image6.png
+width: fill
+
+
+-- ft.markdown:
+
+In this example we have Sections like “Why FTD?”, which aims to the audience
+who is not yet convinced FTD is a good idea for them, then “Docs”, which is
+for people who want to learn FTD, and finally “News”, which is for people to
+stay up to date with what is happening with FTD, how FTD is changing over time.
+
+Note that we recommend organising sections based on the audience. The audience
+should be able to quickly scan the top level header, and move on to the section
+of the site dedicated to their need.
+
+Notion and Confluence can do the same with “spaces”, one space for each audience,
+but then they are left with just the table of contents for that audience.
+
+Table of content is not a great UI. If the table of content lists all elements
+in a collapsed state, the reader has to reveal each item one by one to find what
+they are looking for. If the entries are all open, the table of content becomes
+too large, and one has to scroll through it to find what they are looking for.
+
+If you are using a table of content, and you can not really avoid it after a bit,
+then there should be more than one table of content for the given audience to
+further take them towards where they want to go.
+
+We do it through subsections.
+
+As you can see in the screenshot, the people who want to learn FTD, have first
+chosen if they want to use FTD for data modelling, or for UI, or they want to
+integrate FTD in their code and they are looking for FTD API. Or maybe they
+want to contribute to FTD itself, and they want to go to the development subsection.
+
+One other essential point to notice is how each of the available sections are still
+visible. How each of the subsections of the current section are still visible.
+This way a person who has come to the wrong section or subsection can quickly switch
+to another section or sub-section.
+
+If we do not organise documents correctly it becomes difficult to find them. Search
+becomes the quick resort, but search has very poor discovery. A person looking at
+using FTD for data modelling will quickly learn that they can also use it for building
+user interfaces, or they have access to API as well, without having to seek out this
+information.
+
+The person who is organising the documents should anticipate the needs of the audience
+and try to create a quick nav for them to reach where they want to. They should also
+anticipate the other needs of the person and make other features easily discoverable.
+
+A simple drop down is not enough. You can achieve the same with a series of dropdowns,
+but when you are interacting with a dropdown you have access to very little space.
+Checkout this Notion example:
+
+-- ft.image:
+src: $assets.files.images.document-organisation-hierarchy.image7.png
+width: fill
+
+The only thing visible to the reader is the names. Which at a time you only see
+a section/subsection/document in FifthTry organisation as well, when you land on
+homepage’s job is to educate you about all the sections. Similarly if you click
+on any section, the landing page for that section’s job is to again educate you
+about all the subsections of that section, and similarly the landing page of subsection
+can educate you about all the documents in the table of contents.
+
+By having such section/subsection landing pages, which gives the author a space to
+explain things to readers, to assist the reader in understanding their available choices,
+and guiding them towards them, we create a document organisation which is more
+understandable to them.

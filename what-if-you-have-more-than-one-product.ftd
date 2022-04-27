@@ -1,0 +1,10 @@
+-- ft.page-with-toc: What If You Have More Than One Product?
+
+Some companies are going to have more than one product. If you have
+products that can be clearly separated from each other, the
+recommendation would be to have “brand switcher” or “product switcher”
+like this:
+
+-- ft.image:
+src: $assets.files.images.what-if-you-have-more-than-one-product.image1.png
+width: fill

@@ -1,0 +1,7 @@
+-- ft.page-with-toc: Philosophy
+sub-sections: $config.web-product-header
+toc: $config.product-manual-toc
+
+Some products are about a unique way of doing things, some products
+believe something about the world that is not yet accepted. These
+could be listed here.

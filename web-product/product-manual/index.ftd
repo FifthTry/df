@@ -1,0 +1,27 @@
+-- ft.page-with-toc: Web Product
+sub-sections: $config.web-product-header
+toc: $config.product-manual-toc
+
+
+A web application will aim to be so intuitive that there is no end user manual
+required. But end user manuals are required for certain products, and no matter
+how intuitive your product is, there are always questions.
+
+Some sort of support manual exists, but usually support manuals are too much
+problem oriented, and a well written product manual can be a great asset for
+selling your product.
+
+Note: While we are calling it the end user manual, it’s probably not going to be
+exposed to end users. If it's an open source product, sure it may be, but other
+companies may choose to limit the details exposed. Even for open source products,
+this manual may be too overwhelming for a day to day user. The point of this manual
+is to fully capture all product decisions (as far as the end user is concerned).
+A good rule of thumb is, a complete product manual will allow a competent tech team
+to fully re-create the functionality of the currently deployed product without talking
+to any product manager.
+
+Product manual should be organised into:
+
+- [Overview & Why](web-product/product-manual/overview-&-why/)
+- Features & Journeys
+- Pages, Actions, APIs, Communications

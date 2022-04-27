@@ -1,0 +1,8 @@
+-- ft.page-with-toc: Why Not?
+sub-sections: $config.web-product-header
+toc: $config.product-manual-toc
+
+As much as we like our product, a why not section should be there to
+identify why not to use our product. Things that we do not want to
+support, things where we believe people may be doing suboptimal choices
+by choosing to use us etc should be documented here.

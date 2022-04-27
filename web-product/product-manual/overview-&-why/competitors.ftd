@@ -1,0 +1,7 @@
+-- ft.page-with-toc: Competitors
+sub-sections: $config.web-product-header
+toc: $config.product-manual-toc
+
+For each competition, be it a concrete product, or be it a general
+workflow that people use as a substitute of using our product should
+be listed here.

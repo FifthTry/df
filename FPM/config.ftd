@@ -28,9 +28,17 @@ $processor$: toc
 -- fpm.toc-item list product-manual-toc:
 $processor$: toc
 
-- Overview & Why
-- Features & Journeys
-- Pages, Actions, APIs, Communications
+- Overview & Why: web-product/product-manual/overview-&-why/
+  - Overview: web-product/product-manual/overview-&-why/document-overview/
+  - What are users doing today?: web-product/product-manual/overview-&-why/what-are-users-doing-today/
+  - Why Not?: web-product/product-manual/overview-&-why/why-not/
+  - Philosophy: web-product/product-manual/overview-&-why/philosophy/
+  - Competitors: web-product/product-manual/overview-&-why/competitors/
+- Features & Journeys: web-product/product-manual/features-&-journeys/
+  - Overview: web-product/product-manual/features-&-journeys/overview/
+  - Glossary: web-product/product-manual/features-&-journeys/glossary/
+  - Personas: web-product/product-manual/features-&-journeys/personas/
+- Pages, Actions, APIs, Communications: Pages, Actions, APIs, Communications
   - How To Organise TOC of this Subsection
   - Documentation Of A Page
   - Documentation of a Widget

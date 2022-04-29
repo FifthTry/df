@@ -1,4 +1,4 @@
--- ft.page-with-toc: Role 1: Front End
+-- ds.page-with-toc: Role 1: Front End
 sub-sections: $config.web-product-header
 toc: $config.developer-manual-toc
 

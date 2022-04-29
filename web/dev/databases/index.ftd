@@ -1,4 +1,4 @@
--- ft.page-with-toc: Databases
+-- ds.page-with-toc: Databases
 sub-sections: $config.web-product-header
 toc: $config.developer-manual-toc
 

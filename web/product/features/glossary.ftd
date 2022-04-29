@@ -1,4 +1,4 @@
--- ft.page-with-toc: Glossary
+-- ds.page-with-toc: Glossary
 sub-sections: $config.web-product-header
 toc: $config.product-manual-toc
 

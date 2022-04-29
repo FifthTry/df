@@ -1,4 +1,4 @@
--- ft.page-with-toc: Developer Manual
+-- ds.page-with-toc: Developer Manual
 sub-sections: $config.web-product-header
 toc: $config.developer-manual-toc
 

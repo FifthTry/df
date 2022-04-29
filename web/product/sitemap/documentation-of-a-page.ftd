@@ -1,4 +1,4 @@
--- ft.page-with-toc: Documentation Of A Page
+-- ds.page-with-toc: Documentation Of A Page
 sub-sections: $config.web-product-header
 toc: $config.product-manual-toc
 
@@ -9,14 +9,14 @@ fashioned server rendered page, a page is what has a unique URL.
 When documenting a page we have to document the following:
 
 
--- ft.h1: Page Name
+-- ds.h1: Page Name
 
 Every page has to have a unique name that is used to refer to it everywhere.
 The name of the page should use the `Page` suffix, e.g. `Dashboard Page`
 or `Login Page`.
 
 
--- ft.h1:  Overview (no heading)
+-- ds.h1:  Overview (no heading)
 
 Overview tells you what is the purpose of the page. Who is the main user of the page,
 and which key journeys the page falls on. No need to list all journeys.
@@ -27,7 +27,7 @@ user can take (eg a page can list tweets, and the actions user can take could be
 tweet, delete tweet, like tweet, retweet the tweet, view tweet status etc).
 
 
--- ft.h1: URL and Parameters
+-- ds.h1: URL and Parameters
 
 The URL of the page should be documented in this section.
 
@@ -40,13 +40,13 @@ what happens if the parameter is missing, do we fallback to some default value, 
 we change the behaviour of the page? Do we carry on some validations on the parameters?
 
 
--- ft.h1: Design
+-- ds.h1: Design
 
 This heading has one or more sub-headings. Right after the heading `Design`, it
 should show the screenshot of the page. This is the representative image.
 
 
--- ft.h1: Page Component Documentation
+-- ds.h1: Page Component Documentation
 
 In order to explain different components of the page, multiple sub headings may be used.
 Subheadings for components of the page should start with “Component: ” or somehow
@@ -59,7 +59,7 @@ Page/Action/API etc.
 
 
 
--- ft.h1: Page State Documentation
+-- ds.h1: Page State Documentation
 
 THe page may appear in multiple states depending on who is viewing the page, or what actions
 they have taken on the page. One sub heading for each state should be defined. Such
@@ -70,7 +70,7 @@ a loading state, that UI should be shown as one of the states, and the API that 
 fetch the data should be mentioned in loading state subheading.
 
 
--- ft.h1: Data
+-- ds.h1: Data
 
 When a page is loaded, it loads some data. In some frontend applications, when the page is
 loaded it only has partial data, and the page is shown in a “loading” state, and further

@@ -1,20 +1,19 @@
--- import: ft
+-- import: ds
 -- import: bs
 
--- ft.github: https://github.com/fifthtry/df/
--- ft.site-name: dF
+-- ds.github: https://github.com/fifthtry/df/
 
--- ft.show-brand: true
+-- ds.show-brand: true
 
 -- bs.current-brand: 4
 
--- ft.sections:
+-- ds.sections:
 $processor$: toc
 
 - Web Product: web/
 
 
--- ft.toc:
+-- ds.toc:
 $processor$: toc
 
 - Documentation Framework: index.html

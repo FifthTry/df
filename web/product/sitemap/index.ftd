@@ -1,4 +1,4 @@
--- ft.page-with-toc: Pages, Actions, APIs, Communications
+-- ds.page-with-toc: Pages, Actions, APIs, Communications
 sub-sections: $config.web-product-header
 toc: $config.product-manual-toc
 

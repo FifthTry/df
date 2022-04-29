@@ -1,4 +1,4 @@
--- ft.page-with-toc: Documentation Of A Widget
+-- ds.page-with-toc: Documentation Of A Widget
 sub-sections: $config.web-product-header
 toc: $config.product-manual-toc
 
@@ -23,12 +23,12 @@ does not have a URL. Widget may have parameters, so the Parameters heading can b
 still included.
 
 
--- ft.h1: Widget Name
+-- ds.h1: Widget Name
 
 Document for the widget should tell everyone what is the official name of the widget.
 
 
--- ft.h1: Overview
+-- ds.h1: Overview
 
 Overview tells you who are the primary users of the widget, what are they trying
 to accomplish using the widget, and what are the prominent places the widget is found,

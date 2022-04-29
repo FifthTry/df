@@ -1,4 +1,4 @@
--- ft.page-with-toc: Service 1
+-- ds.page-with-toc: Service 1
 sub-sections: $config.web-product-header
 toc: $config.developer-manual-toc
 

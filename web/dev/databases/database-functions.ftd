@@ -1,4 +1,4 @@
--- ft.page-with-toc: Database Functions
+-- ds.page-with-toc: Database Functions
 sub-sections: $config.web-product-header
 toc: $config.developer-manual-toc
 

@@ -1,19 +1,19 @@
--- ft.page-with-toc: FifthTry Document Organisation Hierarchy
+-- ds.page-with-toc: FifthTry Document Organisation Hierarchy
 
 FifthTry recommends a three level hierarchy for organising documentation
 for maximum readability. In order to understand it, lets first look at the
 documentation organisation by Confluence or Notion:
 
 
--- ft.image:
+-- ds.image:
 src: $assets.files.images.document-organisation-hierarchy.image1.png
 width: fill
 
--- ft.image:
+-- ds.image:
 src: $assets.files.images.document-organisation-hierarchy.image2.png
 width: fill
 
--- ft.markdown:
+-- ds.markdown:
 
 In both Notion and Confluence we have a concept of a “Workspace” or “Space”.
 You can see the name of the current space, and in the current space,
@@ -21,16 +21,16 @@ documents are organised in a table of content form on the left hand side.
 
 The space creates a space for your team, and each team usually has their own space.
 
--- ft.image:
+-- ds.image:
 src: $assets.files.images.document-organisation-hierarchy.image3.png
 width: fill
 
--- ft.image:
+-- ds.image:
 src: $assets.files.images.document-organisation-hierarchy.image4.png
 width: fill
 
 
--- ft.markdown:
+-- ds.markdown:
 
 Once you have entered the space, you tend to navigate primarily through the table
 of contents on the left as shown earlier.
@@ -40,20 +40,20 @@ the top level we have “sections”, each section can have one or more “subse
 and each subsection has a table of content.
 
 
--- ft.image:
+-- ds.image:
 src: $assets.files.images.document-organisation-hierarchy.image5.png
 width: fill
 
--- ft.markdown:
+-- ds.markdown:
 
 An example of document hierarchy:
 
--- ft.image:
+-- ds.image:
 src: $assets.files.images.document-organisation-hierarchy.image6.png
 width: fill
 
 
--- ft.markdown:
+-- ds.markdown:
 
 In this example we have Sections like “Why FTD?”, which aims to the audience
 who is not yet convinced FTD is a good idea for them, then “Docs”, which is
@@ -102,7 +102,7 @@ A simple drop down is not enough. You can achieve the same with a series of drop
 but when you are interacting with a dropdown you have access to very little space.
 Checkout this Notion example:
 
--- ft.image:
+-- ds.image:
 src: $assets.files.images.document-organisation-hierarchy.image7.png
 width: fill
 

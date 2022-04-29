@@ -22,6 +22,6 @@ to any product manager.
 
 Product manual should be organised into:
 
-- [Overview & Why](web-product/product-manual/overview-&-why/)
-- [Features & Journeys](web-product/product-manual/features-&-journeys/)
-- [Pages, Actions, APIs, Communications](web-product/product-manual/pages-actions-apis-communications/)
+- [Overview & Why](web/product/overview/)
+- [Features & Journeys](web/product/features/)
+- [Pages, Actions, APIs, Communications](web/product/sitemap/)

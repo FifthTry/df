@@ -5,61 +5,59 @@
 -- ft.sections:
 $processor$: toc
 
-- Web Product: web-product/
+- Web Product: web/
 
 
 -- ft.toc:
 $processor$: toc
 
-- Documentation Framework: documentation-framework/
-- Showcase: showcase/
-- FifthTry Document Organisation Hierarchy: document-organisation-hierarchy/
-- Is the entire documentation public?: is-the-entire-documentation-public/
-- What If You Have More Than One Product?: what-if-you-have-more-than-one-product/
+- Documentation Framework: index.html
+- FifthTry Document Organisation Hierarchy: organisation/
+- What If You Have More Than One Product?: multi-product/
 
 
 -- fpm.toc-item list web-product-header:
 $processor$: toc
 
-- Product Manual: web-product/product-manual/
-- Developer Manual: web-product/developer-manual/
+- Product Manual: web/product/
+- Developer Manual: web/dev/
 
 
 -- fpm.toc-item list product-manual-toc:
 $processor$: toc
 
-- Overview & Why: web-product/product-manual/overview-&-why/
-  - Overview: web-product/product-manual/overview-&-why/document-overview/
-  - What are users doing today?: web-product/product-manual/overview-&-why/what-are-users-doing-today/
-  - Why Not?: web-product/product-manual/overview-&-why/why-not/
-  - Philosophy: web-product/product-manual/overview-&-why/philosophy/
-  - Competitors: web-product/product-manual/overview-&-why/competitors/
-- Features & Journeys: web-product/product-manual/features-&-journeys/
-  - Overview: web-product/product-manual/features-&-journeys/overview/
-  - Glossary: web-product/product-manual/features-&-journeys/glossary/
-  - Personas: web-product/product-manual/features-&-journeys/personas/
-- Pages, Actions, APIs, Communications: web-product/product-manual/pages-actions-apis-communications/
-  - How To Organise TOC of this Subsection: web-product/product-manual/pages-actions-apis-communications/how-to-organise-toc-of-this-subsection/
-  - Documentation Of A Page: web-product/product-manual/pages-actions-apis-communications/documentation-of-a-page/
-  - Documentation of a Widget: web-product/product-manual/pages-actions-apis-communications/documentation-of-a-widget/
-  - Documentation Of An Action: web-product/product-manual/pages-actions-apis-communications/documentation-of-an-action/
-  - Documentation Of An Api: web-product/product-manual/pages-actions-apis-communications/documentation-of-an-api/
-  - Documentation Of An Outgoing Communication: web-product/product-manual/pages-actions-apis-communications/documentation-of-an-outgoing-communication/
+- Overview & Why: web/product/overview/
+  - Overview: web/product/overview/document-overview/
+  - What are users doing today?: web/product/overview/what-are-users-doing-today/
+  - Why Not?: web/product/overview/why-not/
+  - Philosophy: web/product/overview/philosophy/
+  - Competitors: web/product/overview/competitors/
+- Features & Journeys: web/product/features/
+  - Overview: features-&-journeys/
+  - Glossary: web/product/features/glossary/
+  - Personas: web/product/features/personas/
+- Pages, Actions, APIs, Communications: web/product/sitemap/
+  - How To Organise TOC of this Subsection: web/product/sitemap/how-to-organise-toc-of-this-subsection/
+  - Documentation Of A Page: web/product/sitemap/documentation-of-a-page/
+  - Documentation of a Widget: web/product/sitemap/documentation-of-a-widget/
+  - Documentation Of An Action: web/product/sitemap/documentation-of-an-action/
+  - Documentation Of An Api: web/product/sitemap/documentation-of-an-api/
+  - Documentation Of An Outgoing Communication: web/product/sitemap/documentation-of-an-outgoing-communication/
 
 
 -- fpm.toc-item list developer-manual-toc:
 $processor$: toc
 
-- Overview: web-product/developer-manual/overview/
-  - Overview: web-product/developer-manual/overview/overview/
-- Databases: web-product/developer-manual/databases/
-  - Overview: web-product/developer-manual/databases/overview/
-  - Database Name: web-product/developer-manual/databases/database-name/
-  - “Table” Name: web-product/developer-manual/databases/table-name/
-  - Database Functions: web-product/developer-manual/databases/database-functions/
-- Service 1: web-product/developer-manual/service-1/
-- Service 2: web-product/developer-manual/service-2/
+- Overview: web/dev/overview/
+  - Overview: web/dev/overview/overview/
+- Databases: web/dev/databases/
+  - Overview: web/dev/databases/overview/
+  - Database Name: web/dev/databases/database-name/
+  - “Table” Name: web/dev/databases/table-name/
+  - Database Functions: web/dev/databases/database-functions/
+- Service 1: web/dev/service-1/
+- Service 2: web/dev/service-2/
 - Role 1: Front End
-  url: web-product/developer-manual/role-1/
-- Role 2: web-product/developer-manual/role-2/
-- Role 3: web-product/developer-manual/role-3/
+  url: web/dev/role-1/
+- Role 2: web/dev/role-2/
+- Role 3: web/dev/role-3/

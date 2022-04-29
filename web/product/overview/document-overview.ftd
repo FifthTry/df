@@ -11,7 +11,7 @@ it supports integrations, should be mentioned here.
 “Why?” should be part of this subsection of the user manual. The purpose
 is to educate why this product exists. Key articles of this section should be:
 
-- [What are users doing today?](web-product/product-manual/overview-&-why/what-are-users-doing-today/)
-- [Why Not?](web-product/product-manual/overview-&-why/why-not/)
-- [Philosophy](web-product/product-manual/overview-&-why/philosophy/)
-- [Competitors](web-product/product-manual/overview-&-why/competitors/)
+- [What are users doing today?](web/product/overview/what-are-users-doing-today/)
+- [Why Not?](web/product/overview/why-not/)
+- [Philosophy](web/product/overview/philosophy/)
+- [Competitors](web/product/overview/competitors/)

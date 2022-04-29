@@ -1,0 +1,9 @@
+-- ft.page-with-toc: Features & Journeys
+sub-sections: $config.web-product-header
+toc: $config.product-manual-toc
+
+- [Overview](web/product/features/overview/)
+- [Glossary](web/product/features/glossary/)
+- [Personas](web/product/features/personas/)
+
+

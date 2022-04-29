@@ -2,4 +2,4 @@
 sub-sections: $config.web-product-header
 toc: $config.developer-manual-toc
 
-Similar to [Service 1](web-product/developer-manual/service-1/)
+Similar to [Service 1](web/dev/service-1/)

@@ -1,11 +1,16 @@
 -- import: ft
 -- import: bs
+-- import: df.fifthtry.com/assets
 
 -- ft.github: https://github.com/fifthtry/cdoc/
 
 -- ft.show-brand: true
 
 -- bs.current-brand: 4
+
+-- ft.site-logo:
+light: $assets.files.images.fifthtry-logo.png.light
+dark: $assets.files.images.fifthtry-logo.png.dark
 
 -- ft.sections:
 $processor$: toc

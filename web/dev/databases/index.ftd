@@ -2,7 +2,8 @@
 sub-sections: $config.web-product-header
 toc: $config.developer-manual-toc
 
-- [Overview](web/dev/databases/overview/)
+Here we mention all the databases and the kind of databases we use.
+
 - [Database Name](web/dev/databases/database-name/)
 - [“Table” Name](web/dev/databases/table-name/)
 - [Database Functions](web/dev/databases/database-functions/)

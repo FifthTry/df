@@ -1,7 +1,8 @@
 -- import: ft
 -- import: bs
 
--- ft.github: https://github.com/fifthtry/cdoc/
+-- ft.github: https://github.com/fifthtry/df/
+-- ft.site-name: dF
 
 -- ft.show-brand: true
 
@@ -53,10 +54,8 @@ $processor$: toc
 -- fpm.toc-item list developer-manual-toc:
 $processor$: toc
 
-- Overview: web/dev/overview/
-  - Overview: web/dev/overview/overview/
+- Overview: web/dev/
 - Databases: web/dev/databases/
-  - Overview: web/dev/databases/overview/
   - Database Name: web/dev/databases/database-name/
   - “Table” Name: web/dev/databases/table-name/
   - Database Functions: web/dev/databases/database-functions/

@@ -1,4 +1,4 @@
--- ft.page-with-toc: How To Organise TOC of this Subsection
+-- ds.page-with-toc: How To Organise TOC of this Subsection
 sub-sections: $config.web-product-header
 toc: $config.product-manual-toc
 
@@ -22,6 +22,6 @@ Similarly there should be “Actions”, “APIs” and “Communications” ent
 that are truly reusable.
 
 
--- ft.image:
+-- ds.image:
 src: $assets.files.images.how-to-organise-toc-of-this-subsection.image1.png
 width: fill

@@ -1,24 +1,25 @@
--- import: ft
+-- import: ds
 -- import: bs
 -- import: df.fifthtry.com/assets
 
--- ft.github: https://github.com/fifthtry/cdoc/
+-- ds.github: https://github.com/fifthtry/df/
 
--- ft.show-brand: true
+-- ds.show-brand: true
 
 -- bs.current-brand: 4
 
--- ft.site-logo:
+-- ds.site-logo:
 light: $assets.files.images.fifthtry-logo.png.light
 dark: $assets.files.images.fifthtry-logo.png.dark
 
--- ft.sections:
+
+-- ds.sections:
 $processor$: toc
 
 - Web Product: web/
 
 
--- ft.toc:
+-- ds.toc:
 $processor$: toc
 
 - Documentation Framework: index.html
@@ -58,10 +59,8 @@ $processor$: toc
 -- fpm.toc-item list developer-manual-toc:
 $processor$: toc
 
-- Overview: web/dev/overview/
-  - Overview: web/dev/overview/overview/
+- Overview: web/dev/
 - Databases: web/dev/databases/
-  - Overview: web/dev/databases/overview/
   - Database Name: web/dev/databases/database-name/
   - “Table” Name: web/dev/databases/table-name/
   - Database Functions: web/dev/databases/database-functions/

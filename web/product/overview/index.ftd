@@ -1,4 +1,4 @@
--- ft.page-with-toc: Overview & Why
+-- ds.page-with-toc: Overview & Why
 sub-sections: $config.web-product-header
 toc: $config.product-manual-toc
 

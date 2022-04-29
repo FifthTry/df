@@ -1,4 +1,4 @@
--- ft.page-with-toc: Personas
+-- ds.page-with-toc: Personas
 sub-sections: $config.web-product-header
 toc: $config.product-manual-toc
 

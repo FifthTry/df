@@ -1,4 +1,4 @@
--- ft.page-with-toc: Documentation Of An API
+-- ds.page-with-toc: Documentation Of An API
 sub-sections: $config.web-product-header
 toc: $config.product-manual-toc
 
@@ -6,7 +6,7 @@ API is called by pages from time to time to fetch data. Some APIs are called by
 external integrations. APIs return data in serialised formats, often as JSON.
 
 
--- ft.h1: Action APIs
+-- ds.h1: Action APIs
 
 In some web applications, especially SPAs, and AJAX, API is used to perform action,
 and the job of redirecting the user to the next page is performed by the frontend.
@@ -14,16 +14,16 @@ In such cases from the end user’s perspective this is an “action” and shou
 documented as an Action.
 
 
--- ft.h1: URL and Parameters
+-- ds.h1: URL and Parameters
 
 URL and parameters should be documented, along with validation, and expected error messages.
 
--- ft.h1: Output
+-- ds.h1: Output
 
 The output of an API is usually JSON, the structure of the returned JSON should be
 documented here.
 
--- ft.h1: Reusable JSON Objects
+-- ds.h1: Reusable JSON Objects
 
 If an API is using a JSON object in multiple places, it makes sense to document
 that JSON object independently. If the JSON object is used across multiple APIs, the

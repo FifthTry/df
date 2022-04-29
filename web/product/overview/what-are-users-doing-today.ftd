@@ -1,4 +1,4 @@
--- ft.page-with-toc: What are users doing today?
+-- ds.page-with-toc: What are users doing today?
 sub-sections: $config.web-product-header
 toc: $config.product-manual-toc
 

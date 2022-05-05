@@ -4,7 +4,10 @@
 zip: github.com/fifthtry/df/archive/refs/heads/main.zip
 
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
--- fpm.dependency: fifthtry.github.io/brand-switcher as bs
+
+-- fpm.dependency: fifthtry.github.io/fifthtry-brand-switcher as bs
+
+
 
 -- fpm.auto-import: ds
 -- fpm.auto-import: df.fifthtry.com/FPM/config

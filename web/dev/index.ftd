@@ -1,6 +1,6 @@
 -- ds.page-with-toc: Developer Manual
-sub-sections: $config.web-product-header
-toc: $config.developer-manual-toc
+sub-sections: $config.sitemap.subsections
+toc: $config.sitemap.toc
 
 Developers, both frontend and backend, QA team, devops etc are all targets
 of your developer manual. A complete developer manual will allow a competent

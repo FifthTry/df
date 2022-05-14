@@ -2,6 +2,9 @@
 -- import: bs
 -- import: df.fifthtry.com/assets
 
+-- fpm.sitemap-data sitemap:
+$processor$: get-sitemap
+
 -- ds.github: https://github.com/fifthtry/df/
 
 -- ds.show-brand: true

@@ -1,6 +1,6 @@
 -- ds.page-with-toc: Databases
-sub-sections: $config.web-product-header
-toc: $config.developer-manual-toc
+sub-sections: $config.sitemap.subsections
+toc: $config.sitemap.toc
 
 Here we mention all the databases and the kind of databases we use.
 

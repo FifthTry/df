@@ -1,6 +1,6 @@
 -- ds.page-with-toc: Service 1
-sub-sections: $config.web-product-header
-toc: $config.developer-manual-toc
+sub-sections: $config.sitemap.subsections
+toc: $config.sitemap.toc
 
 - Overview
   - Code

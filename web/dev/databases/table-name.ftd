@@ -1,6 +1,6 @@
 -- ds.page-with-toc: “Table” Name
-sub-sections: $config.web-product-header
-toc: $config.developer-manual-toc
+sub-sections: $config.sitemap.subsections
+toc: $config.sitemap.toc
 
 There should be a document for every table in the database. These documents
 should be organised as sub pages of a corresponding database document.

@@ -9,3 +9,43 @@ zip: github.com/fifthtry/df/archive/refs/heads/main.zip
 -- fpm.auto-import: ds
 -- fpm.auto-import: df.fifthtry.com/FPM/config
 -- fpm.auto-import: df.fifthtry.com/assets
+
+-- fpm.sitemap:
+
+# Web Product: web/
+
+## Product Manual: web/product/
+
+- Overview & Why: web/product/overview/
+  - Overview: web/product/overview/document-overview/
+  - What are users doing today?: web/product/overview/what-are-users-doing-today/
+  - Why Not?: web/product/overview/why-not/
+  - Philosophy: web/product/overview/philosophy/
+  - Competitors: web/product/overview/competitors/
+- Features & Journeys: web/product/features/
+  - Overview: web/product/features/
+  - Glossary: web/product/features/glossary/
+  - Personas: web/product/features/personas/
+- Pages, Actions, APIs, Communications: web/product/sitemap/
+  - How To Organise TOC of this Subsection: web/product/sitemap/how-to-organise-toc-of-this-subsection/
+  - Documentation Of A Page: web/product/sitemap/documentation-of-a-page/
+  - Documentation of a Widget: web/product/sitemap/documentation-of-a-widget/
+  - Documentation Of An Action: web/product/sitemap/documentation-of-an-action/
+  - Documentation Of An Api: web/product/sitemap/documentation-of-an-api/
+  - Documentation Of An Outgoing Communication: web/product/sitemap/documentation-of-an-outgoing-communication/
+
+
+
+## Developer Manual: web/dev/
+
+- Overview: web/dev/
+- Databases: web/dev/databases/
+  - Database Name: web/dev/databases/database-name/
+  - “Table” Name: web/dev/databases/table-name/
+  - Database Functions: web/dev/databases/database-functions/
+- Service 1: web/dev/service-1/
+- Service 2: web/dev/service-2/
+- Role 1: Front End
+  url: web/dev/role-1/
+- Role 2: web/dev/role-2/
+- Role 3: web/dev/role-3/

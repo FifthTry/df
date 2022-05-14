@@ -1,2 +1,2 @@
 -- ds.page-with-toc: Web Product
-sub-sections: $config.web-product-header
+sub-sections: $config.sitemap.subsections

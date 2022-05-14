@@ -1,6 +1,6 @@
 -- ds.page-with-toc: Documentation Of An API
-sub-sections: $config.web-product-header
-toc: $config.product-manual-toc
+sub-sections: $config.sitemap.subsections
+toc: $config.sitemap.toc
 
 API is called by pages from time to time to fetch data. Some APIs are called by
 external integrations. APIs return data in serialised formats, often as JSON.

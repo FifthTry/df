@@ -1,6 +1,6 @@
 -- ds.page-with-toc: Documentation Of An Outgoing Communication
-sub-sections: $config.web-product-header
-toc: $config.product-manual-toc
+sub-sections: $config.sitemap.subsections
+toc: $config.sitemap.toc
 
 Some actions can trigger an email. Or an SMS, or a slack alert etc. All such
 outgoing communications should be documented on a dedicated document for that

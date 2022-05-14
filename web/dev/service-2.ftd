@@ -1,5 +1,5 @@
 -- ds.page-with-toc: Service 2
-sub-sections: $config.web-product-header
-toc: $config.developer-manual-toc
+sub-sections: $config.sitemap.subsections
+toc: $config.sitemap.toc
 
 Similar to [Service 1](web/dev/service-1/)

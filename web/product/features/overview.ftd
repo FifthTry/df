@@ -1,6 +1,6 @@
 -- ds.page-with-toc: Overview
-sub-sections: $config.web-product-header
-toc: $config.product-manual-toc
+sub-sections: $config.sitemap.subsections
+toc: $config.sitemap.toc
 
 This subsection should list high level features of the product. Do we
 support authentication? Do we support authentication via Oauth? Do we

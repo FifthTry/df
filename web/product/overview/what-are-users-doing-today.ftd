@@ -1,6 +1,6 @@
 -- ds.page-with-toc: What are users doing today?
-sub-sections: $config.web-product-header
-toc: $config.product-manual-toc
+sub-sections: $config.sitemap.subsections
+toc: $config.sitemap.toc
 
 If someone is not using this product, what are they doing?
 How is that not optimal for the end user, and how using our

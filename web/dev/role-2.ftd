@@ -1,5 +1,5 @@
 -- ds.page-with-toc: Role 2
-sub-sections: $config.web-product-header
-toc: $config.developer-manual-toc
+sub-sections: $config.sitemap.subsections
+toc: $config.sitemap.toc
 
 Similar to [Role 1](web/dev/role-1/)

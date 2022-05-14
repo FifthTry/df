@@ -1,6 +1,6 @@
 -- ds.page-with-toc: Database Name
-sub-sections: $config.web-product-header
-toc: $config.developer-manual-toc
+sub-sections: $config.sitemap.subsections
+toc: $config.sitemap.toc
 
 For every “logical” database there would be a document, “e.g.
 Django db” or “analytics db”, “worker db” etc.

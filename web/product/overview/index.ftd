@@ -1,6 +1,6 @@
 -- ds.page-with-toc: Overview & Why
-sub-sections: $config.web-product-header
-toc: $config.product-manual-toc
+sub-sections: $config.sitemap.subsections
+toc: $config.sitemap.toc
 
 When a user clicks on End User Manual, the overview subsection
 is auto selected, and the Overview Document is open in the

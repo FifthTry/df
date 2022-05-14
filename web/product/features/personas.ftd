@@ -1,6 +1,6 @@
 -- ds.page-with-toc: Personas
-sub-sections: $config.web-product-header
-toc: $config.product-manual-toc
+sub-sections: $config.sitemap.subsections
+toc: $config.sitemap.toc
 
 End users of the product can be categorised into different personas,
 and they can either be documented in one document “Personas” or

@@ -7,6 +7,8 @@ zip: github.com/fifthtry/df/archive/refs/heads/main.zip
 
 -- fpm.dependency: fifthtry.github.io/fifthtry-brand-switcher as bs
 
+-- fpm.dependency: fifthtry.github.io/forest-cs as forest-cs
+
 
 
 -- fpm.auto-import: ds

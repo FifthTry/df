@@ -1,5 +1,3 @@
--- ds.page-with-toc: Pages, Actions, APIs, Communications
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Pages, Actions, APIs, Communications
 
 All the pages, actions, APIs, Communications should be mentioned in this subsection.

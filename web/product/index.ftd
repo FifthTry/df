@@ -1,6 +1,4 @@
--- ds.page-with-toc: Product Manual
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Product Manual
 
 
 A web application will aim to be so intuitive that there is no end user manual

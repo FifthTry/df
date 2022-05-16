@@ -1,4 +1,4 @@
--- ds.page-with-toc: Is the entire documentation public?
+-- ds.page: Is the entire documentation public?
 
 Only the End User Manual is of public interest. But even for the end user manual,
 the details we cover to completely document the product may be overwhelming to

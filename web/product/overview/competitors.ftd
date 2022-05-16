@@ -1,6 +1,4 @@
--- ds.page-with-toc: Competitors
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Competitors
 
 For each competition, be it a concrete product, or be it a general
 workflow that people use as a substitute of using our product should

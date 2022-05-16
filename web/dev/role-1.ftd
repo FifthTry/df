@@ -1,6 +1,4 @@
--- ds.page-with-toc: Role 1: Front End
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Role 1: Front End
 
 Technologies, patterns and so on.
 

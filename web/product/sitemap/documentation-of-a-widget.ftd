@@ -1,6 +1,4 @@
--- ds.page-with-toc: Documentation Of A Widget
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Documentation Of A Widget
 
 Widget, is a reusable component of UI that is present on multiple pages.
 Since the widget is present on multiple pages, it should not be documented

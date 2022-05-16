@@ -1,6 +1,4 @@
--- ds.page-with-toc: Documentation Of A Page
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Documentation Of A Page
 
 
 What is a page? For a web application, single page application or old

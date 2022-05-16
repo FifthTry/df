@@ -1,6 +1,4 @@
--- ds.page-with-toc: Why Not?
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Why Not?
 
 As much as we like our product, a why not section should be there to
 identify why not to use our product. Things that we do not want to

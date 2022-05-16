@@ -1,6 +1,4 @@
--- ds.page-with-toc: Service 1
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Service 1
 
 - Overview
   - Code

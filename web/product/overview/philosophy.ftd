@@ -1,6 +1,4 @@
--- ds.page-with-toc: Philosophy
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Philosophy
 
 Some products are about a unique way of doing things, some products
 believe something about the world that is not yet accepted. These

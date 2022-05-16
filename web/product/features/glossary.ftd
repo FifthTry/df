@@ -1,5 +1,3 @@
--- ds.page-with-toc: Glossary
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Glossary
 
 In this we mention the terms we use when talking about our products and its various features and aspects.

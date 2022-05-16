@@ -1,5 +1,3 @@
--- ds.page-with-toc: Role 3
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Role 3
 
 Similar to [Role 1](web/dev/role-1/)

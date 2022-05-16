@@ -1,6 +1,4 @@
--- ds.page-with-toc: Databases
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Databases
 
 Here we mention all the databases and the kind of databases we use.
 

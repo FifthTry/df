@@ -1,6 +1,4 @@
--- ds.page-with-toc: Overview & Why
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Overview & Why
 
 When a user clicks on End User Manual, the overview subsection
 is auto selected, and the Overview Document is open in the

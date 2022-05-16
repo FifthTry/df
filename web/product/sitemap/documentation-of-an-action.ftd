@@ -1,6 +1,4 @@
--- ds.page-with-toc: Documentation Of An Action
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Documentation Of An Action
 
 An action is a web request that is performed by a user activity in the browser,
 say they click on a button, or submit a form, and the web request returns a page.

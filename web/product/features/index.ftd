@@ -1,6 +1,4 @@
--- ds.page-with-toc: Features & Journeys
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Features & Journeys
 
 - [Overview](web/product/features/overview/)
 - [Glossary](web/product/features/glossary/)

@@ -1,4 +1,2 @@
--- ds.page-with-toc: Overview
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Overview
 

@@ -1,6 +1,4 @@
--- ds.page-with-toc: Database Functions
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: Database Functions
 
 If you have created custom SQL functions, a document for each such function
 would be good to place under the Database entry.

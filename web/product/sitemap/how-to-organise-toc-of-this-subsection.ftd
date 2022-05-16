@@ -1,6 +1,4 @@
--- ds.page-with-toc: How To Organise TOC of this Subsection
-sub-sections: $config.sitemap.subsections
-toc: $config.sitemap.toc
+-- ds.page: How To Organise TOC of this Subsection
 
 We do not want the reader to jump too much, so we want things that are contextually
 related to show up spatially close to each other if at all possible. One way to

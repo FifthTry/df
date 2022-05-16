@@ -17,6 +17,8 @@ zip: github.com/fifthtry/df/archive/refs/heads/main.zip
 
 -- fpm.sitemap:
 
+# Home: /
+
 # Web Product: web/
 
 ## Product Manual: web/product/

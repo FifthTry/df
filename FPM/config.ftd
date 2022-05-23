@@ -1,10 +1,7 @@
 -- import: ds
 -- import: bs
 -- import: df.fifthtry.com/assets
--- import: forest-cs 
-
--- fpm.sitemap-data sitemap:
-$processor$: get-sitemap
+-- import: forest-cs
 
 -- ds.github: https://github.com/fifthtry/df/
 

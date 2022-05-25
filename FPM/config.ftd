@@ -6,7 +6,7 @@
 
 -- ds.github: https://github.com/fifthtry/df/
 
--- ps.current-brand: 4
+-- ps.current-product: 4
 
 -- ds.site-logo:
 light: $assets.files.images.fifthtry-logo.png.light

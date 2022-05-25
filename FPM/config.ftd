@@ -1,13 +1,12 @@
 -- import: ds
--- import: bs
+-- import: ps
+-- import: fbs
 -- import: df.fifthtry.com/assets
 -- import: forest-cs
 
 -- ds.github: https://github.com/fifthtry/df/
 
--- ds.show-brand: true
-
--- bs.current-brand: 4
+-- ps.current-brand: 4
 
 -- ds.site-logo:
 light: $assets.files.images.fifthtry-logo.png.light

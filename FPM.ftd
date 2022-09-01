@@ -2,6 +2,7 @@
 
 -- fpm.package: df.fifthtry.com
 zip: github.com/fifthtry/df/archive/refs/heads/main.zip
+download-base-url: https://raw.githubusercontent.com/fifthtry/df/main
 
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
 

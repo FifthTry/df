@@ -4,7 +4,6 @@ FifthTry recommends a three level hierarchy for organising documentation
 for maximum readability. In order to understand it, lets first look at the
 documentation organisation by Confluence or Notion:
 
-
 -- ds.image:
 src: $assets.files.images.document-organisation-hierarchy.image1.png
 width: fill
